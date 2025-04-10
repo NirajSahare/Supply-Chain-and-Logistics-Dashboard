@@ -78,6 +78,7 @@ This project demonstrates how Excel can be effectively used for **real-time supp
 - Operations Decision Support
 
 ---
+![Image](https://github.com/user-attachments/assets/3011168f-d4a1-4075-af55-515b66c50cc9)
 
 ## 📌 Author
 
